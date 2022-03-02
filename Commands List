@@ -2,8 +2,10 @@
 
 .fly
 
-.drop [amount] --(drops custom amount ig idk)
+.autodrop [amount] --(drops custom amount ig idk)
 
 .stop -- stops dropping
 
 .antistomp
+
+.hidemoney
