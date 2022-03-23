@@ -1,13 +1,19 @@
+Free Commands:
 .animzombie
+.drop [amount] <-- 100-10000
+.autodrop [amount] <-- 100-10000
+.hidemoney <-- hides money (helps if youre selling dhc)
+.antiafk <-- My script ;))
+.moneycount <-- opens a GUI that Shows How Much Money Is Dropped
 
-.fly
+Premium Commands:
+.prefix [new Prefix] <-- Changes Commands Prefix (Only Premium Commands)
+.premcmds <-- Lists These Commands In A In-Game GUI
+.goto [plr] <-- allows you to goto any player (Case Sensitive)
+.premusers <-- lists how many premium users are In-Game
+.fov [num] <-- Changes Your In-Game FOV
 
-.autodrop [amount] --(drops custom amount ig idk)
+(!!NOTE!!)
+This Is The Scripts First Release So Theres Only A Few Commands Rn!
 
-.stop -- stops dropping
-
-.antistomp
-
-.hidemoney
-
-.antiafk
+(!! Im The Only One Making The Script Since I Have No Friends So Dont Expect Daily Updates :) !!)
