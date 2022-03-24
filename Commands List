@@ -12,6 +12,22 @@ Premium Commands:
 .goto [plr] <-- allows you to goto any player (Case Sensitive)
 .premusers <-- lists how many premium users are In-Game
 .fov [num] <-- Changes Your In-Game FOV
+.benx ! <-- r@p3s The Player
+.unbenx ! <-- unr@p3s The Player
+.fling ! <-- Sends The Player To The Moon
+.freeze ! <-- Freezes The Player (Obviously) 😩👌
+.unfreeze ! <-- Unfreezes The Player (Obviously) 😩👌
+.ban ! <-- !! FAKE !! Bans The Player
+.kill ! <-- Kills The Player (Very Obvious)
+.bring ! <-- Brings A Retard To You :)
+.kick ! <-- Kicks The Player From The Game
+
+LocalPlayer Commands:
+.kick me <-- kicks you -_- owo uwu TvT
+.freeze me <-- Freezes The Player (You)
+.unfreeze me <-- Unfreezes The Player (You)
+.
+
 
 (!!NOTE!!)
 This Is The Scripts First Release So Theres Only A Few Commands Rn!
