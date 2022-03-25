@@ -6,10 +6,10 @@ Free Commands:
 .hidemoney <-- hides money (helps if youre selling dhc)
 .antiafk <-- My script ;))
 .moneycount <-- opens a GUI that Shows How Much Money Is Dropped
+.sit [plr] <-- makes the little doggy sit 😩😩
 
 Premium Commands:
 .prefix [new Prefix] <-- Changes Commands Prefix (Only Premium Commands)
-.premcmds <-- Lists These Commands In A In-Game GUI
 .goto [plr] <-- allows you to goto any player (Case Sensitive)
 .premusers <-- lists how many premium users are In-Game
 .fov [num] <-- Changes Your In-Game FOV
