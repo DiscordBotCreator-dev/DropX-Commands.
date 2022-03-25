@@ -6,8 +6,6 @@ Free Commands:
 .hidemoney <-- hides money (helps if youre selling dhc)
 .antiafk <-- My script ;))
 .moneycount <-- opens a GUI that Shows How Much Money Is Dropped
-.sit [plr] <-- Makes the player sit (good dog ;))
-.compliment <-- Compliments your ugly ass
 
 Premium Commands:
 .prefix [new Prefix] <-- Changes Commands Prefix (Only Premium Commands)
@@ -31,7 +29,7 @@ LocalPlayer Commands (Premium):
 .unfreeze me <-- Unfreezes The Player (You)
 
 LocalPlayer Commands (Free):
-.sit me
+None (  Yet ;))  )
 
 
 (!!NOTE!!)
