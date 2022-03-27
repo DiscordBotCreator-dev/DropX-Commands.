@@ -36,7 +36,6 @@ LocalPlayer Commands (Premium):
 .grave me <-- sends you 6 feet under
 .ungrave me <-- brings you back to life
 .sit ! < makes the player sit (basically just the free one, but instead of using the username it does it automatically)
-.name [name] <-- changes your ingame name (Example: .name Benoxa  Now Your Name Would Look Like [⭐]Benoxa)
 
 LocalPlayer Commands (Free):
 .bank <-- sends you to bank
