@@ -17,16 +17,16 @@ Free Commands:
 
 
 Premium Commands:
-.freeze ! <-- Freezes The Player
-.thaw ! <-- Unfreezes The Player
-.benx ! <-- R@p3s The Player
-.unbenx ! <-- Stops R@p3ing The Player
-.kick ! <-- Kicks The Player With The Message "User BANNED"
-.bring ! <-- Brings The Player To You
-.fling ! <-- Sends The Player To The Moon
-.dropmoney ! <-- Makes The Player Drop 10000
+.freeze . <-- Freezes The Player
+.thaw . <-- Unfreezes The Player
+.benx . <-- R@p3s The Player
+.unbenx . <-- Stops R@p3ing The Player
+.kick . <-- Kicks The Player With The Message "User BANNED"
+.bring . <-- Brings The Player To You
+.fling . <-- Sends The Player To The Moon
+.dropmoney . <-- Makes The Player Drop 10000
 .say [msg] <-- Makes The Player Say The Message You Type
-.airlock ! <-- Freezes The Player In The Air (Ez Air Shot ;))
+.airlock . <-- Freezes The Player In The Air (Ez Air Shot ;))
 /e dropx <-- Makes The Player Say ("Im A DropX User ;)")
 
 
