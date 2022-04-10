@@ -2,7 +2,7 @@
 --// You Can Only Use The Premium Commands If Theres A DropX User In-Game
 
 Free Commands:
-.fly <-- Gives You Shazam Fly
+.fly [speed] <-- Gives You Shazam Fly
 .animzombie <-- Gives You Zombie Animation
 .drop [amount] <-- Makes You Drop Cash
 .autodrop <-- Makes You Drop Cash Non-Stop (Theres A Warning So Make Sure To Read It)
