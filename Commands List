@@ -11,8 +11,7 @@ Free Commands:
 .moneycount <-- Opens A GUI That Shows How Much DHC Is Dropped
 .rs <-- Opens A Remote Spy Script (If You Dont Know What A Remote Spy Is Search It On YT)
 .headless <-- Gives You The Headless Horseman Head
-.sit <-- Makes You Sit (Good Doggy :))
-
+.skinny <-- Makes You Skinny
 .bank <-- Teleports You To The Bank
 .armour <-- Teleports You To Armour
 .casino <-- Teleports You To The Casino
@@ -31,6 +30,10 @@ Premium Commands:
 .dropmoney . <-- Makes The Player Drop 10000
 .say [msg] <-- Makes The Player Say The Message You Type
 .airlock . <-- Freezes The Player In The Air (Ez Air Shot ;))
+.shirtme [shirtid] <-- Gives You The Shirt (Only Shows To You And Other DropX Users)
+.shirt [shirttid] <-- Gives The Shirt To A Dropx User (Only Shows To You And Other DropX Users)
+.pantsme [pantsid] < -- Gives You The Pants (Only Shows To You And Other DropX Users)
+.pants [pantsid] <-- Gives The Pants To A DropX User (Only Shows To You And Other DropX Users)
 /e dropx <-- Makes The Player Say ("Im A DropX User ;)")
 
 
