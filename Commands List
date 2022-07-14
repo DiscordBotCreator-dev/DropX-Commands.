@@ -1,23 +1,27 @@
 --// You Have To Execute The Script To Use The Free Commands
 --// You Can Only Use The Premium Commands If Theres A DropX User In-Game
 
-Free Commands:
-.fly [speed] <-- Gives You Shazam Fly
-.animzombie <-- Gives You Zombie Animation
-.drop [amount] <-- Makes You Drop Cash
-.autodrop <-- Makes You Drop Cash Non-Stop (Theres A Warning So Make Sure To Read It)
-.hidemoney <-- Hides The Money Ingame (Helps If Youre Selling DHC)
-.antiafk <-- Stops You From Being Kicked After 20 Mins
-.moneycount <-- Opens A GUI That Shows How Much DHC Is Dropped
-.rs <-- Opens A Remote Spy Script (If You Dont Know What A Remote Spy Is Search It On YT)
-.headless <-- Gives You The Headless Horseman Head
-.skinny <-- Makes You Skinny
-.bank <-- Teleports You To The Bank
-.armour <-- Teleports You To Armour
-.casino <-- Teleports You To The Casino
-.school <-- Teleports You To The School
-.admin <-- Teleports You To The Admin Base
+Free Commands (Normal Commands):
+.animpack <-- Gives You The Animation Pack For Free (!! I Dont Think It Works For Macros !!)
+.rs <-- Opens A Remote Spy
+.headless <-- Gives You Headless (!! You Can't Talk To People With The Headless On !!)
+.rj / .rejoin <-- Makes You Rejoin The Same Server
+.serverhop / shop <-- Makes You Join A New Da Hood Server
+.korblox <-- Gives You Korblox / Makes You A Vegetable
 
+Free Commands (DHC Selling):
+.drop <-- Drops 1 10k
+.autodrop <-- Starts Auto Dropping 10k's (!! Read The Warning Thats Pops Up !!)
+.hidemoney <-- Hides The Money On The Ground So You're Less Laggy
+.antiafk <-- Opens A Anti-AFK Gui So You Dont Get Kicked After 20 Mins While Dropping
+.moneycount <-- Opens A Money Count Gui That Shows You How Much Money Is Dropped
+
+Free Commands (Teleports):
+.bank <-- Teleports You To Bank
+.armour <-- Teleports You To Armour
+.casino <-- Teleports You To Casino
+.school <-- Teleports You To School
+.admin <-- Teleports You To Admin Base
 
 Premium Commands:
 .freeze . <-- Freezes The Player
@@ -25,15 +29,11 @@ Premium Commands:
 .benx . <-- R@p3s The Player
 .unbenx . <-- Stops R@p3ing The Player
 .kick . <-- Kicks The Player With The Message "User BANNED"
+.ban . <-- Fake Bans The Player
 .bring . <-- Brings The Player To You
+.cuffban . <-- Kicks The Player With The Text "Stop ."
 .fling . <-- Sends The Player To The Moon
 .dropmoney . <-- Makes The Player Drop 10000
-.say [msg] <-- Makes The Player Say The Message You Type
-.airlock . <-- Freezes The Player In The Air (Ez Air Shot ;))
-.shirtme [shirtid] <-- Gives You The Shirt (Only Shows To You And Other DropX Users)
-.shirt [shirttid] <-- Gives The Shirt To A Dropx User (Only Shows To You And Other DropX Users)
-.pantsme [pantsid] < -- Gives You The Pants (Only Shows To You And Other DropX Users)
-.pants [pantsid] <-- Gives The Pants To A DropX User (Only Shows To You And Other DropX Users)
 /e dropx <-- Makes The Player Say ("Im A DropX User ;)")
 
 
